@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: api-caja
+  cloud:
+    config:
+      enabled: true
+      uri: http://localhost:8885
